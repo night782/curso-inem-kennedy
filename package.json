@@ -1,0 +1,8 @@
+{
+  "name": "curso-inem-kennedy",
+  "version": "1.0.0",
+  "description": "Curso Cuidado de lo Público y del Colegio - INEM Kennedy",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
